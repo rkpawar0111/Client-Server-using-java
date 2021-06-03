@@ -29,12 +29,5 @@ Note:- // In case of Error occurence
 
 Screenshot of server and client interface:-
 
-server:
-
-![server](https://user-images.githubusercontent.com/71179766/120690850-5cd40e00-c4c3-11eb-90e5-24cb7e527db7.png)
-
-client:
-
-![client](https://user-images.githubusercontent.com/71179766/120690891-69586680-c4c3-11eb-9ba6-c529585a9a39.png)
-
+![Client_server](https://user-images.githubusercontent.com/71179766/120692054-e20bf280-c4c4-11eb-93e7-b8d6d51647b9.png)
 
