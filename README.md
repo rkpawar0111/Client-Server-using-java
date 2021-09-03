@@ -26,8 +26,3 @@ Note:- // In case of Error occurence
    and share the files.)
 
 */
-
-Screenshot of server and client interface:-
-
-![Client_server](https://user-images.githubusercontent.com/71179766/120692054-e20bf280-c4c4-11eb-93e7-b8d6d51647b9.png)
-
